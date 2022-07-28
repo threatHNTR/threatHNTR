@@ -3,7 +3,7 @@
 - 🌱 Currently learning SIGMA, malware analysis, osint, and penetration testing
 - 💞️ Looking to collaborate on detection logic creation
 - ⚔ Content posted on this github are my own and do not represent the status, strategies or opinions of my employer
-- IkRvIHdoYXQgaXMgcmlnaHQgdG8gb3RoZXIgcGVvcGxlLCBsb3ZlIGJlaW5nIGtpbmQgdG8gb3RoZXJzLCBhbmQgbGl2ZSBodW1ibHkiIE1pY2FoIDY6OA==
+- RG8gbm90aGluZyBvdXQgb2Ygc2VsZmlzaCBhbWJpdGlvbiBvciB2YWluIGNvbmNlaXQuIFJhdGhlciwgaW4gaHVtaWxpdHkgdmFsdWUgb3RoZXJzIGFib3ZlIHlvdXJzZWx2ZXMsIG5vdCBsb29raW5nIHRvIHlvdXIgb3duIGludGVyZXN0cyBidXQgZWFjaCBvZiB5b3UgdG8gdGhlIGludGVyZXN0cyBvZiB0aGUgb3RoZXJzLiBQaGlsaXBwaWFucyAyOjMtNA==
 <!---
 threatHNTR/threatHNTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
