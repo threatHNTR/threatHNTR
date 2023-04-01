@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @threatHNTR
-- 👀 Interested in threat hunting, pentesting, threat detection and content development
+- 👀 Interested in threat hunting, offensive security, and threat detection
 - 🌱 Currently learning SIGMA, malware analysis, and penetration testing
 - 💞️ Looking to collaborate on detection logic creation
 - ⚔ Content posted on this github are my own and do not represent the status, strategies or opinions of my employer
